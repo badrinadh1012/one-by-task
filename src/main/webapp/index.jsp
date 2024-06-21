@@ -13,7 +13,7 @@
 	<h1 style="color: blue; font-size: 47px;" align="center">THANK YOU MUSTAFA SIR BY Naadh</h1>
 	<h1 style="color: black; font-size: 47px;" align="center">THANK YOU for this </h1>
 	<h1 style="color: green; font-size: 47px;" align="center"> srinu badri naveen barnabas </h1>	
-	
+	<h1 style="color: blue; font-size: 47px;" align="center"> today is friday </h1>
 	
 	
 	
