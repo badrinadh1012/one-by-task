@@ -23,7 +23,7 @@
          <h1 style="color: green; font-size: 47px;" align="center"> BADRInadh </h1>
        <h1 style="color: green; font-size: 47px;" align="center"> nadh </h1>
        <h1 style="color: blue; font-size: 47px;" align="center"> developer </h1>
-        
+        <h1 style="color: red; font-size: 47px;" align="center"> MANUAL </h1>
         
 	
 </body>
