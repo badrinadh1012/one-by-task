@@ -19,6 +19,7 @@
 	<h1 style="color: green; font-size: 47px;" align="center"> competition </h1>
         <h1 style="color: blue; font-size: 47px;" align="center"> MANUAL </h1>
         <h1 style="color: red; font-size: 47px;" align="center"> automatic </h1>
+        <h1 style="color: BLUE; font-size: 47px;" align="center"> BADRI </h1>
        
         
 	
